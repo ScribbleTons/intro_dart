@@ -1,3 +1,8 @@
+
+/**
+ * Learnt how to define custom types and usage of types
+ */
+
 typedef StringList = List<String>;
 typedef Concat(String i, String j);
 
